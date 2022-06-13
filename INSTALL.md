@@ -1,4 +1,4 @@
-### [Foobar](https://foobar.com)
+### [tint2](https://github.com/semplice/tint2)
 
 #### Install using Git
 
