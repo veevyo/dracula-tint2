@@ -6,7 +6,7 @@
 
 ## Install
 
-All instructions can be found at [INSTALL.md](./INSTALL.md).
+All instructions can be found at [draculatheme.com/tint2](https://draculatheme.com/tint2).
 
 ## Team
 
