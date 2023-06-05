@@ -2,9 +2,8 @@
 
 > A dark theme for [tint2](https://github.com/semplice/tint2).
 
-![Screenshot](./screenshot.png)
-
-## Install
+![panel](https://github.com/veevyo/dracula-tint2/assets/41368076/667f7b18-0556-4094-9dd7-7a991ad33b2b)
+# Install
 
 All instructions can be found at [draculatheme.com/tint2](https://draculatheme.com/tint2).
 
@@ -15,6 +14,10 @@ This theme is maintained by the following person and a bunch of [awesome contrib
 | [![tuzu128](https://github.com/tuzu128.png?size=100)](https://github.com/tuzu128) |
 | ---------------------------------------------------------------------------------------- |
 | [tuzu128](https://github.com/tuzu128)                                               |
+
+| [![veevyo](https://github.com/veevyo.png?size=100)](https://github.com/veevyo) |
+| ---------------------------------------------------------------------------------------- |
+| [veevyo](https://github.com/veevyo)
 
 ## Community
 
