@@ -2,7 +2,7 @@
 
 > A dark theme for [tint2](https://github.com/semplice/tint2).
 
-![panel](https://github.com/veevyo/dracula-tint2/assets/41368076/667f7b18-0556-4094-9dd7-7a991ad33b2b)
+![panel](https://github.com/veevyo/dracula-tint2/assets/41368076/9f9da328-6aa8-49f5-9c36-486a06d392e4)
 # Install
 
 All instructions can be found at [draculatheme.com/tint2](https://draculatheme.com/tint2).
